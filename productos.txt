@@ -1,0 +1,16 @@
+[
+    {
+    "title": "Regla",
+    "price":250,
+    "id":1
+},
+{
+    
+    "title":"Escuadra",
+    "price":300,
+    "id":2
+
+
+   }
+]
+    
